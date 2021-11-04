@@ -1,0 +1,8 @@
+2021-11-04 10:49:59,346 root WARNING: Invalid login of user!
+2021-11-04 10:49:59,346 root Level 35: This account doesn't exist!
+2021-11-04 10:49:59,346 root ERROR: Error detected!
+2021-11-04 10:49:59,346 root CRITICAL: Critical error detected!
+2021-11-04 10:49:59,346 root WARNING: Invalid login of user!
+2021-11-04 10:49:59,346 foo Level 35: This account doesn't exist!
+2021-11-04 10:49:59,346 root ERROR: Error detected!
+2021-11-04 10:49:59,346 root CRITICAL: Critical error detected!
