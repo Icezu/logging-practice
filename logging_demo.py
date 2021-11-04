@@ -27,9 +27,7 @@ def logging_test(logger):
     logging.error("Error detected!")
     # critical
     logging.critical("Critical error detected!")
-
-    # print("You forgot to write logging_test")
-
+    
 
 def simple_config():
     """Configure logging using basicConfig for simple configuration.
